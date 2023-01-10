@@ -2,6 +2,7 @@ import socket
 import urllib.request
 import requests 
 
+#Mau Recode ? izin dulu ke admin!!
 #Color_Tools
 #==================
 #bi=\033[34;1m
