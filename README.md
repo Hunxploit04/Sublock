@@ -23,6 +23,8 @@ lalu jalankan :
 
 `python3 subdo.py`
 
+jika ingin memberhentikan prosess scanning klik ***CTRL + C***
+
 Author :
 
 - HunX04
